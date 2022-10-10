@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on improving my javascript skills through project building.
+- 🌱 I’m currently learning async and await. 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 Reach my via (Twitter)[https://twitter.com/1689Jeffchavez] 
+- ⚡ Fun fact: ...
+
+### Here is my daily.dev card.
+
 <a href="https://app.daily.dev/jctechdev"><img src="https://api.daily.dev/devcards/6b7484ae77fa43f28f0c054b5ef1c8a3.png?r=0hf" width="400" alt="jeff Chavez's Dev Card"/></a>
 
 <!--
