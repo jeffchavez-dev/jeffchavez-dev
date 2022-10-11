@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning async and await, and improving my javascript skills through project building.
 - 🤔 I’m looking for help with ways to get a full time job in tech.
 - 📫 Reach me via [Twitter](https://twitter.com/1689Jeffchavez)
-- ⚡ Fun Fact: I've been a Wix Developer for 2 years now.
+- ⚡ Fun Fact: I've been a Wix Developer for 2 years now. I am also a blogger at [Dev.to](https://dev.to/jeffchavez_dev)
 
 ### Here is my daily.dev card.
 
