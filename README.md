@@ -12,7 +12,7 @@
 <a href="https://app.daily.dev/jctechdev"><img src="https://api.daily.dev/devcards/6b7484ae77fa43f28f0c054b5ef1c8a3.png?r=0hf" width="300" alt="jeff Chavez's Dev Card"/></a>
 
 
-## As a Christian, I also write blogs about the goodnews. If you are interested, please read here: [The Glorious Gospel](https://theologycheck.wordpress.com/2021/03/04/the-glorious-gospel/](https://heraldofgraceliterature.wordpress.com/2021/03/04/the-glorious-gospel/)
+## As a Christian, I also write blogs about the goodnews. If you are interested, please read here: [The Glorious Gospel](https://heraldofgraceliterature.wordpress.com/2021/03/04/the-glorious-gospel/)
 
 To God be the glory! 
 <!--
