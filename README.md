@@ -2,14 +2,10 @@
 
 
 - 🔭 I’m currently working as Software Consultant at [Servio](https://www.servio.com.au/)
-- 🌱 I’m currently learning async and await, and improving my javascript skills through project building.
-- 🤔 I’m needing help with ways to get a full time job in tech.
+- 🌱 I’m currently learning Data Analysis sklls - Excel, and Power BI
+- 🤔 I’m needing help with ways to get a full-time job as Data Analyst entry level.
 - 📫 Reach me via [Twitter](https://twitter.com/1689Jeffchavez)
-- ⚡ Fun Fact: I've been a No Code/Low Code Developer for 2 years now. I am also a blogger at [Dev.to](https://dev.to/jeffchavez_dev).  I love reading books as well. 
-
-### Here is my daily.dev card.
-
-<a href="https://app.daily.dev/jctechdev"><img src="https://api.daily.dev/devcards/6b7484ae77fa43f28f0c054b5ef1c8a3.png?r=0hf" width="300" alt="jeff Chavez's Dev Card"/></a>
+- ⚡ I love reading books as well. 
 
 
 ## As a Christian, I also write blogs about the goodnews. If you are interested, please read here: [The Glorious Gospel](https://heraldofgraceliterature.wordpress.com/2021/03/04/the-glorious-gospel/)
