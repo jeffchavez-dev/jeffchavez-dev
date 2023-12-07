@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working as Software Consultant at [Servio](https://www.servio.com.au/)
-- 🌱 I’m currently learning Data Analysis sklls - Excel, and Power BI
-- 🤔 I’m needing help with ways to get a full-time job as Data Analyst entry level.
+- 🌱 I’m currently reviewing and updating my skills as a software developer.
+- 🤔 I’m needing help with ways to get a full-time job as software developer.
 - 📫 Reach me via [Twitter](https://twitter.com/1689Jeffchavez)
 - ⚡ I love reading books as well. 
 
