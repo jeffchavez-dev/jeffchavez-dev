@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as Software Consultant at [Servio](https://www.servio.com.au/)
 - I am a Dev Moderator at [Dev.to](https://dev.to/jeffchavez_dev)
 - 🌱 I’m currently reviewing and updating my skills as a software developer.
-- 🤔 I need help with ways to get a full-time job as a software developer.
+- 🤔 I thinking about my next project.
 - 📫 Reach me via [Twitter](https://twitter.com/1689Jeffchavez)
 - ⚡ I love reading books as well. 
 
