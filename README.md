@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as Software Consultant at [Servio](https://www.servio.com.au/)
+- 🔭 I’m currently working as Customer Success Manager at [Servio](https://www.servio.com.au/)
 - I am a Dev Moderator at [Dev.to](https://dev.to/jeffchavez_dev)
 - 🌱 I’m currently reviewing and updating my skills as a software developer.
 - 🤔 I thinking about my next project.
