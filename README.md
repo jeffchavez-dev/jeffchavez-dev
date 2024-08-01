@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Customer Success Manager at [Servio](https://www.servio.com.au/)
 - I am a Dev Moderator at [Dev.to](https://dev.to/jeffchavez_dev)
-- 🌱 I’m currently reviewing and updating my skills as a software developer.
+- 🌱 I’m a JavaScript and Python Developer. I used these in Frappe Development. I am an AI enthusiast.
 - 🤔 I thinking about my next project.
 - 📫 Reach me via [Twitter](https://twitter.com/1689Jeffchavez)
 - ⚡ I love reading books as well. 
