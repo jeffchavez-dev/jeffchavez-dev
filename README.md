@@ -1,5 +1,6 @@
 ```javascript
-const jeff_ai.dev = {
+// jeff-ai.dev
+const jeff_chavez = {
 
   about: {
     name: "Jeff Chavez",
