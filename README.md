@@ -10,9 +10,9 @@ const jeff_chavez = {
   },
 
   automationStack: {
-    workflows:  ["Make", "Zapier"],
-    databases:  ["Airtable", "HubSpot"],
-    crm:        ["Attio", "Fibery"],
+    workflows:  ["Make", "Zapier", "n8n"],
+    databases:  ["Airtable", "HubSpot", "Supabase"],
+    crm:        ["Attio", "Fibery", "GoHighLevel"],
     ai:         ["Claude", "ChatGPT Pro", "Grok"],
   },
 
