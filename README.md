@@ -5,7 +5,7 @@ const jeff_chavez = {
   about: {
     name: "Jeff Chavez",
     location: "Cavite, Philippines",
-    role: "Executive Assistant @ ATHENA",
+    role: "Executive Assistant @ Resilience",
     goal: "Automate the noise so principals focus on what matters most.",
   },
 
